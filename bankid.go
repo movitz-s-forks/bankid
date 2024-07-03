@@ -31,7 +31,7 @@ var (
 	//go:embed test.ca.crt
 	TestCACertificate []byte
 
-	//go:embed testcert.p12
+	//go:embed FPTestcert5_20240610.p12
 	TestSSLCertificate []byte
 )
 
